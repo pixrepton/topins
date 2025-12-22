@@ -1,0 +1,22 @@
+{
+  "fallback": {
+    "U_wall": 0.6,
+    "U_roof": 0.3,
+    "U_floor": 0.4,
+    "U_window": 1.3,
+    "U_door": 1.8,
+    "window_area_per_piece_m2": 1.6,
+    "huge_window_area_m2": 4.0,
+    "door_area_m2": 2.0,
+    "balcony_door_area_m2": 2.2,
+    "roof_area_factor": {
+      "flat": 1.05,
+      "oblique": 1.15,
+      "steep": 1.25
+    }
+  },
+  "corrections": {
+    "thermalBridgesMultiplier": 1.10,
+    "safetyFactor": 1.10
+  }
+}

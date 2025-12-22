@@ -1,0 +1,5 @@
+{
+  "natural": { "ach": 0.8, "eta_rec": 0.0 },
+  "mechanical": { "ach": 0.6, "eta_rec": 0.0 },
+  "mechanical_recovery": { "ach": 0.6, "eta_rec": 0.85 }
+}
